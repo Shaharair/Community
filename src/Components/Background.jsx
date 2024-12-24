@@ -15,7 +15,7 @@ const Background = () => {
                         </div>
                     </div>
                     <div className="w-[30%]">
-                        <div className="lg:text-[80px] text-[54px] text-[#FFF5EB] lg:ml-[70px] ml-[30px]">
+                        <div className="lg:text-[90px] text-[54px] text-[#FFF5EB] lg:ml-[70px] ml-[30px]">
                             <VscQuote />
                         </div>
                     </div>
