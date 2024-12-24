@@ -10,12 +10,13 @@ export default {
     extend: {},
     maxWidth: {
       Container: "1280px"
-    }, fontFamily: {
+    }, 
+    fontFamily: {
       'Roboto': ['Roboto', 'serif',]
     },
     backgroundImage: {
       'banner': "url('./src/assets/banner.jpg')",
-      'background': "url('./src/assets/banner2.jpg')",
+      'background': "url('./src/assets/banner2.jpg')"
     }
 
   },
