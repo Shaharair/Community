@@ -15,8 +15,8 @@ export default {
       'Roboto': ['Roboto', 'serif',]
     },
     backgroundImage: {
-      'banner': "url('./src/assets/banner.jpg')",
-      'background': "url('./src/assets/banner2.jpg')"
+      'banner': "url('./src/assets/banner.png')",
+      'background': "url('./src/assets/banner2.png')"
     }
 
   },
