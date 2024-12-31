@@ -29,7 +29,7 @@ const Footer = () => {
                     <div className="lg:w-[25%] w-[48%] mt-[30px] lg:mt-0">
                         <ul>
                             <li className="font-Roboto font-semibold lg:text-[24px] text-[18px] text-white uppercase">Connect</li>
-                            <div className="flex items-center lg:gap-4 gap-2 pt-5">
+                            <div className="flex items-center lg:gap-6 gap-2 pt-5">
                                 <div className="font-Roboto font-semibold lg:text-[18px] text-[16px] text-white border-2 border-[#FFD2A4] lg:w-[60px] w-[50px] lg:h-[60px] h-[50px] lg:leading-[60px] leading-[50px] rounded-full lg:pt-[20px] pt-[16px] lg:pl-[19px] pl-[14px] hover:bg-[#FFD2A4] hover:text-[#161722] duration-500 ease-in-out">
                                     <FaFacebookF />
                                 </div>
