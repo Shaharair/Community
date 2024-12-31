@@ -14,9 +14,13 @@ export default {
     fontFamily: {
       'Roboto': ['Roboto', 'serif',]
     },
+    // backgroundImage: {
+    //   'banner': "url('./src/assets/banner.png')",
+    //   'background': "url('./src/assets/banner2.png')"
+    // },
     backgroundImage: {
-      'banner': "url('./src/assets/banner.png')",
-      'background': "url('./src/assets/banner2.png')"
+      'banner': "url('/src/assets/banner.png')",
+      'background': "url('/src/assets/banner2.png')",
     }
 
   },
